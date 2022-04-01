@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Aman Raj! Meaw
 About me 👱🏻‍♂️
 
-I am a Production Engineer Graduate Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
+I am a Production Engineer Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
 I am intrested towards Software Development and working with cutting edge techs
 
 
