@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Aman Raj! Meaw
+About me 👱🏻‍♂️
+
+I am a Production Engineer Graduate Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
+I am intrested towards Software Development and working with cutting edge techs
+
 
 <!--
 **Amandev02/amandev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
