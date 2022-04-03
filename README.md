@@ -1,9 +1,10 @@
-### Hi there 👋 I am Aman Raj! Meaw                
-<img ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)/>
-About me 👱🏻‍♂️
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amanpgexyz&left_color=green&right_color=red">
+<h1>Aman Raj ---@amandev02</h1>                     
 
-I am a Production Engineer Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
-I am intrested towards Software Development and working with cutting edge techs
+</br>
+<h2>About me 👱🏻‍♂️</h2>
+Hi, I'm Aman -a Production Engineer Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
+I'm intrested towards Software Development and working with cutting edge techs. I’m currently learning MERN stack
 
 
 <!--
@@ -21,10 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠  Tech Stack
 
-HTML CSS  Node.js  Git 
-GitHub  Markdown Visual Studio Code
+
+<h2> 📫 Get in touch </h2>
+  
+-  Linked In - https://www.linkedin.com/aman-raj-2728ba1b6/
+-  Twitter -   https://www.twitter.com/A_m_a_n_r_a_j18
+-  Instagram - https://www.instagram.com/im_aman.rj
 
 
 
