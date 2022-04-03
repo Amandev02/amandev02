@@ -1,4 +1,5 @@
-### Hi there 👋 I am Aman Raj! Meaw
+### Hi there 👋 I am Aman Raj! Meaw                
+<img ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)/>
 About me 👱🏻‍♂️
 
 I am a Production Engineer Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
@@ -20,6 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🛠  Tech Stack
+
+HTML CSS  Node.js  Git 
+GitHub  Markdown Visual Studio Code
 
 
 
