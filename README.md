@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 <h2> 📫 Get in touch </h2>
   
--  Linked In - https://www.linkedin.com/aman-raj-2728ba1b6/
+-  Linked In - https://www.linkedin.com/in/amanraaj/
 -  Twitter -   https://www.twitter.com/A_m_a_n_r_a_j18
 -  Instagram - https://www.instagram.com/im_aman.rj
 
