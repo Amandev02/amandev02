@@ -23,9 +23,18 @@ Here are some ideas to get you started:
 -->
 <h2>Techstakes worked with</h2>
 <div>
+  
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=node.js&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript&logoColor=FFA518)
+![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++&logoColor=FFA518)
+![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c&logoColor=FFA518)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoCol…)
 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 <h2> 📫 Get in touch </h2>
   
