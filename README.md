@@ -44,8 +44,11 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" target="_blank"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 <br/>
 <br/>
+
 -  Linked In - https://www.linkedin.com/in/amanraaj/
+-  <br/>
 -  Twitter -   https://www.twitter.com/A_m_a_n_r_a_j18
+-  <br/>
 -  Instagram - https://www.instagram.com/im_aman.rj
 
 
