@@ -1,5 +1,10 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amanpgexyz&left_color=green&right_color=red">
-<h1>Aman Raj ---@amandev02</h1>                     
+
+<h1>Aman Raj ---@amandev02 <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="50" target="_blank">
+</h1>                     
+
+<img align='right' src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="230" target="_blank">
+
 
 </br>
 <h2>About me 👱🏻‍♂️</h2>
@@ -22,22 +27,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Techstakes worked with</h2>
-<div>
-  
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=node.js&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript&logoColor=FFA518)
-![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++&logoColor=FFA518)
-![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c&logoColor=FFA518)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoCol…)
-
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank"/>
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" target="_blank"/>
+<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" target="_blank"/>
+<img align="left" alt="ReactJS" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" target="_blank"/>
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank"/>
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" target="_blank"/>
+<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" target="_blank"/>
+<br/>
+<br/>
+<br/>
+<em>
 </div>
+
 <h2> 📫 Get in touch </h2>
-  
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" target="_blank"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+<br/>
+<br/>
 -  Linked In - https://www.linkedin.com/in/amanraaj/
 -  Twitter -   https://www.twitter.com/A_m_a_n_r_a_j18
 -  Instagram - https://www.instagram.com/im_aman.rj
