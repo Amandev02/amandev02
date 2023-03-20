@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 
 ## Watch my contributions get eaten by a snake 🐍
-![Snake animation](https://github.com/Amandev02/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Amandev02/Amandev02/blob/output/github-contribution-grid-snake.svg)
