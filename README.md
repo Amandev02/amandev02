@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 -  Linked In - https://www.linkedin.com/in/amanraaj/
 -  Twitter -   https://www.twitter.com/A_m_a_n_r_a_j18
--  Instagram - https://www.instagram.com/im_aman.rj
+-  Email - amanraj7166@gmail.com
 
 
 
