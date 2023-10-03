@@ -12,6 +12,8 @@ Hi, I'm Aman -a Production Engineer Undergraduate at Motilal Nehru National Inst
 I'm intrested towards Software Development and working with cutting edge techs. I’m currently learning MERN stack
 
 
+
+
 <!--
 **Amandev02/amandev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,5 +53,7 @@ Here are some ideas to get you started:
 
 
 
+[![An image of @amandev02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandev02)](https://holopin.io/@amandev02)
+<!--
 ## Watch my contributions get eaten by a snake 🐍
-![Snake animation](https://github.com/Amandev02/Amandev02/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Amandev02/Amandev02/blob/output/github-contribution-grid-snake.svg) -->
