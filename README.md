@@ -1,14 +1,13 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amanpgexyz&left_color=green&right_color=red">
 
-<h1>Aman Raj ---@amandev02 <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="50" target="_blank">
+<h1>Aman Raj ---@amandev02 
 </h1>                     
 
-<img align='right' src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="230" target="_blank">
 
 
 </br>
 <h2>About me 👱🏻‍♂️</h2>
-Hi, I'm Aman -a Production Engineer Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
+Hi, I'm Aman -Final yera Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
 I'm intrested towards Software Development and working with cutting edge techs. I’m currently learning MERN stack
 
 
