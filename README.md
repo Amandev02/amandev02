@@ -7,7 +7,7 @@
 
 </br>
 <h2>About me 👱🏻‍♂️</h2>
-Hi, I'm Aman -Final yera Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
+Hi, I'm Aman -Final year Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
 I'm intrested towards Software Development and working with cutting edge techs. I’m currently learning MERN stack
 
 
