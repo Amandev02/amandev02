@@ -1,58 +1,82 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amanpgexyz&left_color=green&right_color=red">
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=amandev02&left_color=green&right_color=red">
 
-<h1>Aman Raj ---@amandev02 
-</h1>                     
+<h1 align="center">Hi 👋, I'm Aman Raj</h1>
+<h3 align="center">Software Engineer | Java | Spring Boot | Microservices</h3>
 
+---
 
+## 🚀 About Me
+- 💼 Software Engineer with ~2+ years of experience in backend development
+- 🎓 Graduate from MNNIT Allahabad
+- 💻 Specializing in **Java, Spring Boot & Microservices Architecture**
+- ⚙️ Building scalable, production-grade backend systems
+- 🧠 Strong in **Data Structures, Algorithms & System Design**
+- ☁️ Exploring **AWS, Docker, Kubernetes & Distributed Systems**
 
-</br>
-<h2>About me 👱🏻‍♂️</h2>
-Hi, I'm Aman -Final year Undergraduate at Motilal Nehru National Institute of Technology, Allahabad
-I'm intrested towards Software Development and working with cutting edge techs. I’m currently learning MERN stack
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Backend
+- Java (8+), Spring Boot
+- REST APIs, Microservices Architecture
+- Hibernate / JPA
 
+### 🌐 Frontend
+- React.js, Redux, TypeScript
 
-<!--
-**Amandev02/amandev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗄️ Database
+- MySQL, MongoDB
 
-Here are some ideas to get you started:
+### ⚙️ Tools & DevOps
+- Git, Docker, Kubernetes
+- Kafka
+- Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Techstakes worked with</h2>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank"/>
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" target="_blank"/>
-<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" target="_blank"/>
-<img align="left" alt="ReactJS" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" target="_blank"/>
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" target="_blank"/>
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" target="_blank"/>
-<br/>
-<br/>
-<br/>
-<em>
-</div>
+---
 
-<h2> 📫 Get in touch </h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" target="_blank"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-<br/>
-<br/>
+## 💼 Experience
 
--  Linked In - https://www.linkedin.com/in/amanraaj/
--  Twitter -   https://www.twitter.com/A_m_a_n_r_a_j18
--  Email - amanraj7166@gmail.com
+### 🔹 Software Engineer
+- 🚀 Worked on transforming a **monolithic system into microservices**
+- ⚡ Designed & developed scalable **REST APIs using Spring Boot**
+- 🗄️ Integrated **MySQL** for efficient data handling
+- 🤝 Collaborated with cross-functional teams to deploy and maintain services
+- 📈 Improved system scalability and maintainability
 
+---
 
+## 🚀 Projects
 
-[![An image of @amandev02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandev02)](https://holopin.io/@amandev02)
-<!--
-## Watch my contributions get eaten by a snake 🐍
-![Snake animation](https://github.com/Amandev02/Amandev02/blob/output/github-contribution-grid-snake.svg) -->
+### 🔹 CloudTasker
+> Task & project management platform (Full Stack)
+
+- 🔐 JWT Authentication & Role-based Access Control
+- 📦 Microservices architecture
+- 🗂️ MongoDB + MySQL hybrid data design
+- 🔔 Notification system (in progress)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandev02&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandev02&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/amanraaj/
+- 📧 Email: amanraj7166@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy designing scalable backend systems and solving complex engineering problems 🚀
+
+---
+
+⭐️ From [AmanDev02](https://github.com/amandev02)
